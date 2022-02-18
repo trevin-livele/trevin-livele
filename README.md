@@ -15,4 +15,4 @@ Hello there 👋 I am <a href="https://trevin-livele.firebaseapp.com/">Trevin-li
     </div>
 </div>
 
-![trevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Trevin-livele&theme=gotham&layout=compact)
+![trev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trevin-livele&theme=gotham&layout=compact)
