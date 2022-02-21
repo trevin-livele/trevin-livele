@@ -16,4 +16,4 @@ Hello there 👋 I am <a href="https://trevin-livele.firebaseapp.com/">Trevin-li
 </div>
 
 
-![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lively&theme=gotham&layout=compact)
+![James's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trevin_livele&theme=gotham&layout=compact)
