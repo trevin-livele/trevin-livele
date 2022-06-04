@@ -4,7 +4,7 @@ Hello there hi 👋 I am <a href="https://trevin-livele.firebaseapp.com/">Trevin
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/trevin?style=social) | ![GitHub followers](https://img.shields.io/github/followers/trevin-livele?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7818605)
 
-## My All time Github Stats
+## My Github Stats
 
 <div style="display: flex;">
     <div style="width: 50%;">
