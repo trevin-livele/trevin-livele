@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello there  👋 I am <a href="https://trevin-livele.firebaseapp.com/">Trevin-livele </a>
+Hello there  👋 I'm <a href="https://trevin-livele.firebaseapp.com/">Trevin-livele </a>
 </h1>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/trevin?style=social) | ![GitHub followers](https://img.shields.io/github/followers/trevin-livele?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7818605)
